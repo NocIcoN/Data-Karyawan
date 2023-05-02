@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Data Karyawan</string>
+    <string name="Selected_Item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Direktur Utama</item>
+        <item>Manajer Umum</item>
+        <item>Manajer Keuangan</item>
+        <item>Manajer Sumber Daya Manusia</item>
+        <item>Manajer Pemasaran</item>
+        <item>Manajer Operasional</item>
+        <item>Supervisor</item>
+        <item>Spesialis Teknis</item>
+        <item>Analis Bisnis</item>
+        <item>Karyawan Produksi</item>
+    </string-array>
+</resources>
